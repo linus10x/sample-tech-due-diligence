@@ -28,7 +28,8 @@
 - [ ] Secrets: where they live; scanning on?
 - [ ] Dependency scanning and patch cadence
 - [ ] Customer commitments already made (security questionnaires, contract clauses) vs reality
-- [ ] SOC 2 / ISO 27001: current status stated exactly (none, gap assessment, Type I, Type II); never assume
+- [ ] SOC 2: report availability, Type I or Type II, CPA firm, system scope and report date/period; distinguish readiness from an issued report
+- [ ] ISO/IEC 27001: readiness or certification status, standard edition, certified scope, issuing certification body and certificate validity; inspect the actual certificate
 
 ## Data
 - [ ] Data contracts on inbound feeds; data quality incidents
@@ -49,6 +50,14 @@
 ## Report
 - [ ] One-page summary with Red / Amber / Green and a bottom line
 - [ ] Findings tied to evidence and to value (revenue, cost, risk)
-- [ ] What we did not find
+- [ ] Unknowns, conflicts, confidence and negative findings bounded by inspected evidence
 - [ ] 100-day plan with owners and cost ranges
 - [ ] Method and limits stated plainly
+
+## Deal structure, ownership and value creation
+- [ ] Investment thesis assumptions translated into required capacity, reliability, costs and enterprise obligations
+- [ ] Software and data rights: contributor agreements, acquired IP, open-source obligations and vendor restrictions; counsel validates legal conclusions
+- [ ] Carve-out or acquisition integration: shared infrastructure, identity, contracts, people, transitional services, dependencies and exit costs
+- [ ] Cloud/vendor unit costs and customer margin implications; reconcile management projections with observed workloads
+- [ ] Each material finding has an evidence ID, coverage, confidence, commercial consequence, accountable owner, acceptance test and decision condition
+- [ ] Estimated hours, delivery capacity, rate, contingency and exclusions support cost/date ranges; no unsupported valuation recommendation
